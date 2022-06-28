@@ -1,4 +1,8 @@
 div {
     background-color: red;
     color: white;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
 }

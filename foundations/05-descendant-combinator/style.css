@@ -4,3 +4,10 @@
     font-size: 20px;
     text-align: center;
 }
+
+/*
+Possible replacements for ' .container .text ' :
+    div p {}
+    div .text {}
+    .container p {}
+*/

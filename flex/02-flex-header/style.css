@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 10px;
 }
 
 .logo {
@@ -19,7 +20,8 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  margin-left: -40px;
+  margin-left: -50px;
+  margin-right: -10px;
 }
 
 a {

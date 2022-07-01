@@ -31,3 +31,7 @@ img {
   justify-content: space-between;
   margin: 32px 56px;
 }
+
+.text {
+  text-align: center;
+}

@@ -35,3 +35,13 @@ img {
 .text {
   text-align: center;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 16px;
+  padding: 10px;
+  gap: 8px;
+}

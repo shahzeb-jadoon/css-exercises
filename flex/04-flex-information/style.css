@@ -28,8 +28,10 @@ img {
 
 .container {
   display: flex;
-  justify-content: space-between;
-  margin: 32px 56px;
+  justify-content: center;
+  margin-top: 32px;
+  gap: 52px;
+  flex-wrap: wrap;
 }
 
 .text {
@@ -39,9 +41,6 @@ img {
 .content {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  margin: 16px;
-  padding: 10px;
-  gap: 8px;
+  width: 200px;
 }
